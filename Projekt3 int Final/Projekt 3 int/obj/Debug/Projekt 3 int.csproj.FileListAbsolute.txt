@@ -1,0 +1,14 @@
+F:\Tomasz Ignasiak\OneDrive\Nauka\WSB\II Semestr\Algorytmy i struktury danych\Projekt3 int\Projekt 3 int\bin\Debug\Projekt 3 int.exe.config
+F:\Tomasz Ignasiak\OneDrive\Nauka\WSB\II Semestr\Algorytmy i struktury danych\Projekt3 int\Projekt 3 int\bin\Debug\Projekt 3 int.exe
+F:\Tomasz Ignasiak\OneDrive\Nauka\WSB\II Semestr\Algorytmy i struktury danych\Projekt3 int\Projekt 3 int\bin\Debug\Projekt 3 int.pdb
+F:\Tomasz Ignasiak\OneDrive\Nauka\WSB\II Semestr\Algorytmy i struktury danych\Projekt3 int\Projekt 3 int\obj\Debug\Projekt 3 int.csprojAssemblyReference.cache
+F:\Tomasz Ignasiak\OneDrive\Nauka\WSB\II Semestr\Algorytmy i struktury danych\Projekt3 int\Projekt 3 int\obj\Debug\Projekt 3 int.csproj.CoreCompileInputs.cache
+F:\Tomasz Ignasiak\OneDrive\Nauka\WSB\II Semestr\Algorytmy i struktury danych\Projekt3 int\Projekt 3 int\obj\Debug\Projekt 3 int.exe
+F:\Tomasz Ignasiak\OneDrive\Nauka\WSB\II Semestr\Algorytmy i struktury danych\Projekt3 int\Projekt 3 int\obj\Debug\Projekt 3 int.pdb
+C:\Users\zskto_000\Downloads\Projekt3 int Final\Projekt 3 int\bin\Debug\Projekt 3 int.exe.config
+C:\Users\zskto_000\Downloads\Projekt3 int Final\Projekt 3 int\bin\Debug\Projekt 3 int.exe
+C:\Users\zskto_000\Downloads\Projekt3 int Final\Projekt 3 int\bin\Debug\Projekt 3 int.pdb
+C:\Users\zskto_000\Downloads\Projekt3 int Final\Projekt 3 int\obj\Debug\Projekt 3 int.csprojAssemblyReference.cache
+C:\Users\zskto_000\Downloads\Projekt3 int Final\Projekt 3 int\obj\Debug\Projekt 3 int.csproj.CoreCompileInputs.cache
+C:\Users\zskto_000\Downloads\Projekt3 int Final\Projekt 3 int\obj\Debug\Projekt 3 int.exe
+C:\Users\zskto_000\Downloads\Projekt3 int Final\Projekt 3 int\obj\Debug\Projekt 3 int.pdb
